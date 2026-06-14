@@ -2,7 +2,7 @@
 
 ### Authors
 
-**Apoorva** and **Anwesha**
+**Apoorva**,**Anwesha** and **Sujal**
 
 ---
 
